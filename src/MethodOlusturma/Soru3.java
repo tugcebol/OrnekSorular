@@ -24,7 +24,6 @@ public class Soru3 {
 
         boolean sonuc = true;
 
-        // asal sayi kendisine ve 1 e bölünen sayı
 
         for (int i = 2; i <girilenSayi ; i++) {
 
