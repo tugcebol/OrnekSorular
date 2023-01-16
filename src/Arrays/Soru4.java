@@ -13,6 +13,7 @@ public class Soru4 {
 
         System.out.println("Kaç kelime girmek istiyorsunuz?");
         int kelimeSayisi = scan.nextInt();
+
         String[] arr = new String[kelimeSayisi];
 
         for (int i = 0; i < arr.length; i++) {
